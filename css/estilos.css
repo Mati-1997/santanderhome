@@ -1,0 +1,10 @@
+#fondo_home {
+    background-image: url("https://www2.personas.santander.com.ar/obp-webapp/angular/client/app/common/images/Ilustracion.svg");
+    background-repeat: no-repeat;
+    background-position: left center;
+    background-size: cover;
+}
+
+.texto-seguridad {
+    font-size: 12px;
+}
